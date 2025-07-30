@@ -11,7 +11,7 @@ import SwiftUI
 struct RavloApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Text("Welcome in Schemas")
         }
     }
 }
